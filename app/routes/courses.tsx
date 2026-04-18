@@ -114,7 +114,7 @@ export default function Courses() {
                         </div>
                         <div className="flex gap-3 flex-wrap shrink-0">
                            <span className="bg-white px-4 py-3 rounded-xl text-xs font-label uppercase shadow-sm font-semibold tracking-wider text-center">Backend<br />Architect</span>
-                           <span className="bg-white px-4 py-3 rounded-xl text-xs font-label uppercase shadow-sm font-semibold tracking-wider text-center">Full<br />Stack<br />Engineer</span>
+                           <span className="bg-white px-4 py-3 rounded-xl text-xs font-label uppercase shadow-sm font-semibold tracking-wider text-center">Full<br />Stack</span>
                            <span className="bg-white px-4 py-3 rounded-xl text-xs font-label uppercase shadow-sm font-semibold tracking-wider text-center text-on-primary-container">Python<br />Lead</span>
                         </div>
                      </div>

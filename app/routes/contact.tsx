@@ -94,7 +94,7 @@ export default function Contact() {
                className="max-w-2xl"
             >
                <h1 className="text-5xl lg:text-[5rem] leading-none font-bold text-slate-900 tracking-tight">
-                  Get in <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-400">touch.</span>
+                  Get in <span className="text-transparent bg-clip-text bg-linear-to-r from-blue-600 to-indigo-400">touch.</span>
                </h1>
                <p className="mt-8 text-lg text-slate-600 leading-relaxed">
                   Whether you're looking to pivot your career or scale your engineering team, our studio is ready to help you architect your future. Reach out to our technical advisors today.
@@ -186,7 +186,7 @@ export default function Contact() {
                            <button
                               type="submit"
                               disabled={isSubmitting}
-                              className={`w-full bg-gradient-to-r from-[#1a1f3c] to-[#4a62bd] text-white rounded-xl py-5 px-6 font-bold tracking-widest text-sm uppercase transition-all shadow-md ${isSubmitting ? "opacity-70 cursor-not-allowed" : "hover:shadow-xl hover:shadow-[#4a62bd]/20 active:scale-[0.98]"}`}
+                              className={`w-full bg-linear-to-r from-[#1a1f3c] to-[#4a62bd] text-white rounded-xl py-5 px-6 font-bold tracking-widest text-sm uppercase transition-all shadow-md ${isSubmitting ? "opacity-70 cursor-not-allowed" : "hover:shadow-xl hover:shadow-[#4a62bd]/20 active:scale-[0.98]"}`}
                            >
                               {isSubmitting ? "SENDING..." : "SEND INQUIRY"}
                            </button>
@@ -232,7 +232,7 @@ export default function Contact() {
                         alt="Anantapur Headquarters"
                         className="w-full h-full object-cover filter grayscale opacity-80"
                      />
-                     <div className="absolute inset-0 bg-gradient-to-t from-slate-900/80 to-transparent"></div>
+                     <div className="absolute inset-0 bg-linear-to-t from-slate-900/80 to-transparent"></div>
                      <div className="absolute bottom-6 left-6 right-6">
                         <div className="bg-white/90 backdrop-blur-md p-5 rounded-xl shadow-lg">
                            <p className="text-[10px] uppercase tracking-widest text-slate-400 mb-1">Our Headquarters</p>
