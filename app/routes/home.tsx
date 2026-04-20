@@ -20,7 +20,7 @@ export default function Home() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.6 }}
         >
-          <Badge variant="beginner">VISION TRAINING & INTERNSHIP</Badge>
+          <Badge variant="beginner">VISION IT TRAINING INSTITUTE</Badge>
           <h1 className="mt-6 text-5xl lg:text-[4rem] leading-[1.1] font-display font-bold text-primary tracking-tight">
             Build Your Career <br className="hidden lg:block" />
             in <span className="text-transparent bg-clip-text bg-linear-to-r from-on-primary-container to-blue-400">Full Stack</span> <br className="hidden lg:block" />
@@ -248,7 +248,7 @@ export default function Home() {
               Ready to Architect Your Future?
             </h2>
             <p className="text-white/80 font-sans mb-10 text-sm md:text-base">
-              Join our next cohort and learn to build enterprise-scale applications from scratch. Limited seats available for personalized mentoring.
+              Join the studio where engineers are made, not just taught. Limited seats for the 2026 cohort.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <ButtonLink to="/contact" className="bg-white text-primary hover:bg-surface-container-highest transition-colors">

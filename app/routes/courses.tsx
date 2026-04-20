@@ -302,7 +302,7 @@ export default function Courses() {
                      Ready to Begin Your <span className="text-transparent bg-clip-text bg-linear-to-r from-[#8ca5ff] to-white">Evolution?</span>
                   </h2>
                   <p className="text-white/80 font-sans mb-10 text-sm md:text-base">
-                     Join the studio where engineers are made, not just taught. Limited seats for the Spring 2024 cohort.
+                     Join the studio where engineers are made, not just taught. Limited seats for the Spring 2026 cohort.
                   </p>
                   <div className="flex flex-wrap justify-center gap-4">
                      <ButtonLink to="/contact" className="bg-white text-primary hover:bg-surface-container-highest transition-colors">
