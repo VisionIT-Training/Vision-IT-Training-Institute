@@ -126,8 +126,8 @@ function Footer() {
         <div>
           <h4 className="font-sans font-semibold text-sm mb-4">Legal</h4>
           <ul className="space-y-3 text-sm font-sans text-on-surface/70">
-            <li><Link to="#" className="hover:text-primary transition-colors">Privacy Policy</Link></li>
-            <li><Link to="#" className="hover:text-primary transition-colors">Terms of Service</Link></li>
+            <li><Link to="/privacy" className="hover:text-primary transition-colors">Privacy Policy</Link></li>
+            <li><Link to="/terms" className="hover:text-primary transition-colors">Terms & Conditions</Link></li>
           </ul>
         </div>
       </div>

@@ -8,7 +8,7 @@ import confetti from "canvas-confetti";
 export default function ComingSoon() {
   const [isHovered, setIsHovered] = useState(false);
   const [copied, setCopied] = useState(false);
-  const email = "sardarsadiq106@gmail.com";
+  const email = "sakevamsik@gmail.com";
 
   const handleCopy = () => {
     navigator.clipboard.writeText(email);

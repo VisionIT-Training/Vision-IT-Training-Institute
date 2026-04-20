@@ -25,7 +25,7 @@ export default function Contact() {
       event.preventDefault();
       setIsSubmitting(true);
       setResult("Sending....");
-      
+
       const formData = new FormData(event.target);
       formData.append("access_key", "7f1e58c1-af09-40da-87ad-13a42e816ac4"); // Updated access key
 
@@ -176,7 +176,7 @@ export default function Contact() {
                            </div>
                            <div>
                               <p className="text-[10px] uppercase tracking-widest text-slate-400 mb-1">Email</p>
-                              <p className="font-medium text-sm text-slate-900">vamsik@gmail.com</p>
+                              <p className="font-medium text-sm text-slate-900">sakevamsik@gmail.com</p>
                            </div>
                         </div>
                         <div className="flex items-center gap-6">
