@@ -205,7 +205,7 @@ export default function Contact() {
                      </div>
                      <div className="mt-12 text-sm text-slate-600">
                         <p>Available Monday — Friday</p>
-                        <p>07:00 AM - 10:00 AM & 6:00 PM - 9:00 PM IST</p>
+                        <p>10:00 AM TO 5:30PM</p>
                      </div>
                   </div>
 
