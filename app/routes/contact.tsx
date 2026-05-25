@@ -199,13 +199,13 @@ export default function Contact() {
                            </div>
                            <div>
                               <p className="text-[10px] uppercase tracking-widest text-slate-400 mb-1">Phone</p>
-                              <p className="font-medium text-sm text-slate-900">+91 9390441858</p>
+                              <p className="font-medium text-sm text-slate-900">+91 6301581529</p>
                            </div>
                         </div>
                      </div>
                      <div className="mt-12 text-sm text-slate-600">
                         <p>Available Monday — Friday</p>
-                        <p>10:00 AM TO 5:30PM</p>
+                        <p>07:00 AM - 10:00 AM & 6:00 PM - 9:00 PM IST</p>
                      </div>
                   </div>
 
@@ -233,7 +233,7 @@ export default function Contact() {
 
                            <p className="text-[10px] uppercase tracking-widest text-slate-400 mb-1">Our Headquarters</p>
                            <a
-                              href="https://www.google.com/maps/search/?api=1&query=14.6633722,77.5733936"
+                              href="https://www.google.com/maps/place/BFC+PLAZA/@14.6631072,77.5805909,17.67z/data=!4m12!1m5!3m4!2zMTTCsDM5JzQ4LjEiTiA3N8KwMzQnMjQuMiJF!8m2!3d14.6633722!4d77.5733936!3m5!1s0x3bb14a9242a2f593:0xcd446cd611b729ad!8m2!3d14.6631453!4d77.5812019!16s%2Fg%2F11xv8vd33y?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
                               target="_blank"
                               rel="noopener noreferrer"
                               className="font-bold text-xs text-slate-900 block hover:text-blue-600 transition-colors"
@@ -247,7 +247,7 @@ export default function Contact() {
                   {/* New Social Row (Below Address Card) */}
                   <div className="grid grid-cols-2 gap-4">
                      <a
-                        href="https://linkedin.com"
+                        href="#comming_soon"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="bg-white p-6 rounded-3xl border border-gray-100 shadow-sm flex flex-col items-center justify-center gap-3 transition-all hover:shadow-md group/social"
@@ -256,7 +256,7 @@ export default function Contact() {
                         <span className="text-[10px] uppercase tracking-widest font-bold text-slate-400 group-hover/social:text-slate-600 transition-colors">LinkedIn</span>
                      </a>
                      <a
-                        href="https://instagram.com"
+                        href="#comming_soon"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="bg-white p-6 rounded-3xl border border-gray-100 shadow-sm flex flex-col items-center justify-center gap-3 transition-all hover:shadow-md group/social"
